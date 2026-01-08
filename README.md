@@ -14,8 +14,8 @@ A comprehensive machine learning framework for predicting Formula 1 race outcome
 - [Usage](#-usage)
 - [Project Structure](#-project-structure)
 - [Model Performance](#-model-performance)
-- [Contributing](#-contributing)
-- [License](#-license)
+- [Technical Details](#-technical-details)
+- [Future Enhancements](#-future-enhancements)
 
 ## 🚀 Project Overview
 
@@ -231,9 +231,9 @@ To enable weather data integration, configure your OpenWeatherMap API key:
 Run any Grand Prix prediction script:
 
 ```bash
-python "Australian GP.py"
-python "Monaco GP.py"
-python "Abu Dhabi GP.py"
+python "Races/Australian GP.py"
+python "Races/Monaco GP.py"
+python "Races/Abu Dhabi GP.py"
 ```
 
 ### Expected Output
